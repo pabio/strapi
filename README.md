@@ -1,24 +1,11 @@
-# 🖌️ Template
+# 📑 Strapi
 
-This is a starter repository for building Node.js projects at Koj.
-
-## ⭐️ Features
-
-- [Koj's Prettier configuration](./.prettierrc.cjs)
-- [Semantic Release with Gitmoji](./release.config.js)
-- [Dependabot configuration](./.github/dependabot.yml)
-- [Pull request labeler](./.github/labeler.yml)
-- [Merge PRs on approved reviews](./github/actions/automerge.yml)
-- [CLA enforcement for new contributors](./github/actions/cla.yml)
-- [Create PRs from feature/hotfix branches](./github/actions/feature-pr.yml)
-- [Write code in TypeScript](./src/index.ts)
-- [Tests using Jest](./src/index.spec.ts)
+This repository contains the source for our headless CMS, built on [strapi/strapi](https://github.com/strapi/strapi).
 
 ## 💻 Getting started
 
-1. [Create a new repository from this template](https://github.com/koj-co/strapi/generate)
-2. Install dependencies using `npm install`
-3. Update package details in `package.json`
+1. Build the static site: `npm run build`
+2. Run Node.js app: `npm run start`
 
 ## 📄 License
 
