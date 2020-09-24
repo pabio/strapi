@@ -15,8 +15,8 @@
       "unique": true
     },
     "blog_posts": {
-      "collection": "blog-post",
-      "via": "categories"
+      "via": "categories",
+      "collection": "blog-post"
     },
     "Slug": {
       "type": "string",

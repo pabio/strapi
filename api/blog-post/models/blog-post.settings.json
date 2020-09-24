@@ -24,14 +24,19 @@
       "model": "author"
     },
     "categories": {
-      "via": "blog_posts",
       "collection": "category",
+      "via": "blog_posts",
       "dominant": true
     },
     "Slug": {
       "type": "string",
       "required": true,
       "unique": true
+    },
+    "Draft": {
+      "type": "boolean",
+      "default": false,
+      "required": true
     }
   }
 }
