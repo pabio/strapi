@@ -1,0 +1,11 @@
+---
+name: dkim-signer
+version: 0.2.2
+type: npm
+summary: DKIM signing code extracted from mailcomposer
+homepage: https://github.com/andris9/dkim-signer
+license: mit
+licenses:
+- sources: README.md
+  text: "**MIT**"
+notices: []

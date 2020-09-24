@@ -1,0 +1,17 @@
+---
+name: consola
+version: 2.15.0
+type: npm
+summary: Elegant Console Logger for Node.js and Browser
+homepage: https://github.com/nuxt/consola#readme
+license: mit
+licenses:
+- sources: README.md
+  text: "MIT - Made with \U0001F496 By Nuxt.js team!\n\n<!-- Refs -->\n[standard-js-src]:
+    https://flat.badgen.net/badge/code%20style/standard/green\n[standard-js-href]:
+    https://standardjs.com\n\n[npm-version-src]: https://flat.badgen.net/npm/v/consola/latest\n[npm-version-href]:
+    https://npmjs.com/package/consola\n\n[npm-downloads-src]: https://flat.badgen.net/npm/dt/consola\n[npm-downloads-href]:
+    https://npmjs.com/package/consola\n\n[package-phobia-src]: https://flat.badgen.net/packagephobia/install/consola\n[package-phobia-href]:
+    https://packagephobia.now.sh/result?p=consola\n\n[bundle-phobia-src]: https://flat.badgen.net/bundlephobia/minzip/consola\n[bundle-phobia-href]:
+    https://bundlephobia.com/result?p=consola"
+notices: []

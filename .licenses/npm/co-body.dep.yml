@@ -1,0 +1,11 @@
+---
+name: co-body
+version: 5.2.0
+type: npm
+summary: request body parsing for co
+homepage: https://github.com/cojs/co-body#readme
+license: mit
+licenses:
+- sources: Readme.md
+  text: MIT
+notices: []

@@ -1,0 +1,11 @@
+---
+name: koa-favicon
+version: 2.1.0
+type: npm
+summary: favicon bounce middleware for koa
+homepage: https://github.com/koajs/favicon#readme
+license: mit
+licenses:
+- sources: Readme.md
+  text: MIT
+notices: []

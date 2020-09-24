@@ -1,0 +1,75 @@
+---
+name: cross-env
+version: 5.2.1
+type: npm
+summary: Run scripts that set and use environment variables across platforms
+homepage: https://github.com/kentcdodds/cross-env#readme
+license: mit
+licenses:
+- sources: LICENSE
+  text: |
+    The MIT License (MIT)
+    Copyright (c) 2017 Kent C. Dodds
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+- sources: README.md
+  text: |-
+    MIT
+
+    [npm]: https://www.npmjs.com/
+    [node]: https://nodejs.org
+    [build-badge]: https://img.shields.io/travis/kentcdodds/cross-env.svg?style=flat-square
+    [build]: https://travis-ci.org/kentcdodds/cross-env
+    [win-build-badge]: https://img.shields.io/appveyor/ci/kentcdodds/cross-env.svg?style=flat-square
+    [win-build]: https://ci.appveyor.com/project/kentcdodds/cross-env
+    [coverage-badge]: https://img.shields.io/codecov/c/github/kentcdodds/cross-env.svg?style=flat-square
+    [coverage]: https://codecov.io/github/kentcdodds/cross-env
+    [dependencyci-badge]: https://dependencyci.com/github/kentcdodds/cross-env/badge?style=flat-square
+    [dependencyci]: https://dependencyci.com/github/kentcdodds/cross-env
+    [version-badge]: https://img.shields.io/npm/v/cross-env.svg?style=flat-square
+    [package]: https://www.npmjs.com/package/cross-env
+    [node-version-badge]: https://img.shields.io/badge/node-%3E%3D%204.0-orange.svg?style=flat-square
+    [downloads-badge]: https://img.shields.io/npm/dm/cross-env.svg?style=flat-square
+    [npm-stat]: http://npm-stat.com/charts.html?package=cross-env&from=2016-04-01
+    [license-badge]: https://img.shields.io/npm/l/cross-env.svg?style=flat-square
+    [license]: https://github.com/kentcdodds/cross-env/blob/master/other/LICENSE
+    [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+    [prs]: http://makeapullrequest.com
+    [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
+    [donate]: http://kcd.im/donate
+    [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
+    [coc]: https://github.com/kentcdodds/cross-env/blob/master/other/CODE_OF_CONDUCT.md
+    [roadmap-badge]: https://img.shields.io/badge/%F0%9F%93%94-roadmap-CD9523.svg?style=flat-square
+    [roadmap]: https://github.com/kentcdodds/cross-env/blob/master/other/ROADMAP.md
+    [examples-badge]: https://img.shields.io/badge/%F0%9F%92%A1-examples-8C8E93.svg?style=flat-square
+    [examples]: https://github.com/kentcdodds/cross-env/blob/master/other/EXAMPLES.md
+    [github-watch-badge]: https://img.shields.io/github/watchers/kentcdodds/cross-env.svg?style=social
+    [github-watch]: https://github.com/kentcdodds/cross-env/watchers
+    [github-star-badge]: https://img.shields.io/github/stars/kentcdodds/cross-env.svg?style=social
+    [github-star]: https://github.com/kentcdodds/cross-env/stargazers
+    [twitter]: https://twitter.com/intent/tweet?text=Check%20out%20cross-env!%20https://github.com/kentcdodds/cross-env%20%F0%9F%91%8D
+    [twitter-badge]: https://img.shields.io/twitter/url/https/github.com/kentcdodds/cross-env.svg?style=social
+    [emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+    [all-contributors]: https://github.com/kentcdodds/all-contributors
+    [win-bash]: https://msdn.microsoft.com/en-us/commandline/wsl/about
+    [angular-formly]: https://github.com/formly-js/angular-formly
+    [cross-spawn]: https://www.npmjs.com/package/cross-spawn
+    [ts-loader]: https://www.npmjs.com/package/ts-loader
+    [malware]: http://blog.npmjs.org/post/163723642530/crossenv-malware-on-the-npm-registry
+notices: []

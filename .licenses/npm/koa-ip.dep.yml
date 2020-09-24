@@ -1,0 +1,11 @@
+---
+name: koa-ip
+version: 2.1.0
+type: npm
+summary: Ip filter middleware for koa, support `whitelist` and `blacklist`.
+homepage: https://github.com/nswbmw/koa-ip#readme
+license: mit
+licenses:
+- sources: readme.md
+  text: MIT
+notices: []

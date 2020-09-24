@@ -1,0 +1,11 @@
+---
+name: koa-compose
+version: 2.3.0
+type: npm
+summary: compose Koa middleware
+homepage: https://github.com/koajs/compose#readme
+license: mit
+licenses:
+- sources: Readme.md
+  text: MIT
+notices: []

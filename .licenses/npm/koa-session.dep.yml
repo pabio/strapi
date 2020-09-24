@@ -1,0 +1,11 @@
+---
+name: koa-session
+version: 6.0.0
+type: npm
+summary: Koa cookie session middleware with external store support
+homepage: https://github.com/koajs/session#readme
+license: mit
+licenses:
+- sources: Readme.md
+  text: MIT
+notices: []

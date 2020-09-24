@@ -1,0 +1,44 @@
+---
+name: switchback
+version: 2.0.5
+type: npm
+summary: Normalize callback fns to switchbacks and vice versa
+homepage: https://github.com/node-machine/switchback#readme
+license: mit
+licenses:
+- sources: LICENSE
+  text: |
+    The MIT License (MIT)
+
+    Copyright (c) 2013 Mike McNeil
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy of
+    this software and associated documentation files (the "Software"), to deal in
+    the Software without restriction, including without limitation the rights to
+    use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+    the Software, and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- sources: README.md
+  text: |-
+    **[MIT](./LICENSE)**
+    &copy; 2014
+    [Mike McNeil](http://michaelmcneil.com), [Balderdash](http://balderdash.co) & contributors
+
+    This module is free and open-source under the [MIT License](http://sails.mit-license.org/).
+
+
+    ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
+
+
+    [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/a22d3919de208c90c898986619efaa85 "githalytics.com")](http://githalytics.com/node-machine/switchback)
+notices: []

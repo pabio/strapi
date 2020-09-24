@@ -1,0 +1,11 @@
+---
+name: stream-slice
+version: 0.1.2
+type: npm
+summary: slice stream like buffer/string
+homepage: https://github.com/yorkie/stream-slice
+license: mit
+licenses:
+- sources: README.md
+  text: MIT
+notices: []

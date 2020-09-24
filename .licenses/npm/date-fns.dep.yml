@@ -1,0 +1,19 @@
+---
+name: date-fns
+version: 2.16.1
+type: npm
+summary: Modern JavaScript date utility library
+homepage: https://github.com/date-fns/date-fns#readme
+license: other
+licenses:
+- sources: LICENSE.md
+  text: |
+    Copyright (C) 2020 Sasha Koss and Lesha Koss
+
+    # License
+
+    date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
+    Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
+- sources: README.md
+  text: "[MIT © Sasha Koss](https://kossnocorp.mit-license.org/)"
+notices: []

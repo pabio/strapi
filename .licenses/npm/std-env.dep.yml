@@ -1,0 +1,11 @@
+---
+name: std-env
+version: 2.2.1
+type: npm
+summary: Detect running environment of the current Node.js process
+homepage: https://github.com/jsless/std-env#readme
+license: mit
+licenses:
+- sources: README.md
+  text: MIT
+notices: []

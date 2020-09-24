@@ -1,0 +1,13 @@
+---
+name: captains-log
+version: 2.0.3
+type: npm
+summary: Lightweight logger with a simple pass-through configuration for use with
+  fancier logging libraries
+homepage: https://github.com/balderdashy/captains-log#readme
+license: mit
+licenses:
+- sources: README.md
+  text: This package, like the [Sails framework](http://sailsjs.com), is free and
+    open-source under the [MIT License](http://sailsjs.com/license).
+notices: []

@@ -1,0 +1,12 @@
+---
+name: koa2-ratelimit
+version: 0.9.0
+type: npm
+summary: IP rate-limiting middleware for Koajs 2. Use to limit repeated requests to
+  APIs and/or endpoints such as password reset.
+homepage: https://github.com/ysocorp/koa2-ratelimit#readme
+license: mit
+licenses:
+- sources: README.md
+  text: MIT © [YSO Corp](http://ysocorp.com/)
+notices: []
