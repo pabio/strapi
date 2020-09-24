@@ -10,7 +10,9 @@
   },
   "attributes": {
     "Title": {
-      "type": "string"
+      "type": "string",
+      "unique": true,
+      "required": true
     },
     "Content": {
       "type": "richtext"
@@ -22,9 +24,14 @@
       "model": "author"
     },
     "categories": {
-      "collection": "category",
       "via": "blog_posts",
+      "collection": "category",
       "dominant": true
+    },
+    "Slug": {
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }

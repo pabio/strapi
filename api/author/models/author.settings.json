@@ -10,10 +10,17 @@
   },
   "attributes": {
     "Name": {
-      "type": "string"
+      "type": "string",
+      "unique": true,
+      "required": true
     },
     "Description": {
       "type": "richtext"
+    },
+    "Slug": {
+      "type": "string",
+      "unique": true,
+      "required": true
     }
   }
 }

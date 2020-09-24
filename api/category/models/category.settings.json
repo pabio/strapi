@@ -15,8 +15,13 @@
       "unique": true
     },
     "blog_posts": {
-      "via": "categories",
-      "collection": "blog-post"
+      "collection": "blog-post",
+      "via": "categories"
+    },
+    "Slug": {
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }
