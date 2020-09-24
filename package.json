@@ -1,32 +1,29 @@
 {
-  "name": "my-project",
-  "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "name": "@koj/strapi",
+  "version": "0.0.0",
+  "description": "Koj's Strapi API",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "update-template": "npx update-template https://github.com/koj-co/template",
+    "update-template": "npx update-template https://github.com/koj-co/strapi",
     "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koj-co/template.git"
+    "url": "git+https://github.com/koj-co/strapi.git"
   },
   "keywords": [
     "koj",
-    "template",
-    "nodejs",
-    "typescript"
+    "strapi"
   ],
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/koj-co/template/issues"
+    "url": "https://github.com/koj-co/strapi/issues"
   },
-  "homepage": "https://github.com/koj-co/template#readme",
+  "homepage": "https://github.com/koj-co/strapi#readme",
   "devDependencies": {
     "@koj/config": "1.2.4",
     "@semantic-release/changelog": "^5.0.1",
