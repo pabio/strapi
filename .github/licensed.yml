@@ -24,14 +24,12 @@ reviewed:
     - atob
     - bcrypt-pbkdf
     - bcryptjs
-    - big.js-3.2.0
-    - bl-2.2.1
-    - bl-4.0.3
+    - big.js
+    - bl
     - boom
     - cacache
     - caniuse-lite
-    - color-convert-1.9.3
-    - color-convert-2.0.1
+    - color-convert
     - colors
     - css-select
     - default-gateway
@@ -42,7 +40,7 @@ reviewed:
     - electron-to-chromium
     - encoding
     - es6-templates
-    - faye-websocket-0.11.3
+    - faye-websocket
     - figgy-pudding
     - font-awesome
     - formik
@@ -53,7 +51,7 @@ reviewed:
     - hoist-non-react-statics
     - http-proxy
     - ieee754
-    - immutable-3.7.6
+    - immutable
     - intl-format-cache
     - intl-messageformat
     - intl-messageformat-parser
@@ -62,8 +60,7 @@ reviewed:
     - json-schema
     - json3
     - koa-lusca
-    - lodash-4.17.19
-    - lodash-4.17.20
+    - lodash
     - lodash-es
     - lodash.deburr
     - lodash.includes
@@ -86,26 +83,21 @@ reviewed:
     - path-browserify
     - path-is-inside
     - portfinder
-    - qs-6.5.2
-    - qs-6.7.0
+    - qs
     - rc
     - react-input-autosize
     - react-intl
-    - react-transition-group-2.9.0
-    - react-transition-group-4.4.1
-    - readable-stream-2.3.7
-    - readable-stream-3.6.0
-    - readdirp-2.2.1
+    - react-transition-group
+    - readable-stream
+    - readdirp
     - redux-immutable
     - retry
     - sanitize.css
     - sequelize-pool
     - serialize-javascript
     - sha.js
-    - source-map-0.5.7
-    - source-map-0.6.1
-    - sprintf-js-1.0.3
-    - sprintf-js-1.1.2
+    - source-map
+    - sprintf-js
     - ssri
     - strapi
     - strapi-admin
@@ -131,8 +123,7 @@ reviewed:
     - string_decoder
     - synchronous-promise
     - terser
-    - toposort-1.0.7
-    - toposort-2.0.2
+    - toposort
     - tslib
     - tty-browserify
     - typedarray
