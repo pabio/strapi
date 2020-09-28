@@ -1,4 +1,5 @@
 "use strict";
+
 const cryptoRandomString = require("crypto-random-string");
 
 /**
