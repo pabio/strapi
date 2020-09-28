@@ -28,6 +28,10 @@
     },
     "profile_picture": {
       "type": "string"
+    },
+    "slug": {
+      "type": "string",
+      "unique": true
     }
   }
 }
