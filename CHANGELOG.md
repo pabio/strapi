@@ -1,3 +1,9 @@
+# [v1.3.1](https://github.com/koj-co/strapi/compare/v1.3.0...v1.3.1) (2020-09-28)
+
+## ♻️ Updates
+
+- [`4da1193`](https://github.com/koj-co/strapi/commit/4da1193)  Generate slug with hash in jobs
+
 # [v1.3.0](https://github.com/koj-co/strapi/compare/v1.2.0...v1.3.0) (2020-09-28)
 
 ## ✨ New features
