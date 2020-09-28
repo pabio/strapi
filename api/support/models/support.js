@@ -11,7 +11,7 @@ module.exports = {
   lifecycles: {
     beforeCreate: async (data) => {
       if (data.title) {
-        data.slug = cryptoRandomString({ length: 10 });
+        data.slug = data.slug || cryptoRandomString({ length: 10 });
       }
     },
     beforeUpdate: async (_, data) => {
