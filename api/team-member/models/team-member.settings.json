@@ -32,6 +32,10 @@
     "slug": {
       "type": "string",
       "unique": true
+    },
+    "blog_posts": {
+      "via": "team_members",
+      "collection": "blog-post"
     }
   }
 }
