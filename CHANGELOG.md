@@ -1,3 +1,18 @@
+# [v1.4.0](https://github.com/koj-co/strapi/compare/v1.3.1...v1.4.0) (2020-09-28)
+
+## ✨ New features
+
+- [`9bf768d`](https://github.com/koj-co/strapi/commit/9bf768d)  Add support articles category
+
+## ♻️ Updates
+
+- [`616b5ec`](https://github.com/koj-co/strapi/commit/616b5ec)  Don&#x27;t overwrite slug
+
+## 🐛 Bug fixes
+
+- [`d5140cd`](https://github.com/koj-co/strapi/commit/d5140cd)  Set random string length to 10
+- [`f4667ae`](https://github.com/koj-co/strapi/commit/f4667ae)  Don&#x27;t overwrite support slug
+
 # [v1.3.1](https://github.com/koj-co/strapi/compare/v1.3.0...v1.3.1) (2020-09-28)
 
 ## ♻️ Updates

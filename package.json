@@ -1,6 +1,6 @@
 {
   "name": "@koj/strapi",
-  "version": "0.0.0",
+  "version": "1.4.0",
   "description": "Koj's Strapi API",
   "scripts": {
     "develop": "strapi develop",
