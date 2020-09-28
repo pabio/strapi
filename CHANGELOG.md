@@ -1,3 +1,9 @@
+# [v1.2.0](https://github.com/koj-co/strapi/compare/v1.1.0...v1.2.0) (2020-09-28)
+
+## ✨ New features
+
+- [`1dffebd`](https://github.com/koj-co/strapi/commit/1dffebd)  Add team member type
+
 # [v1.1.0](https://github.com/koj-co/strapi/compare/v1.0.1...v1.1.0) (2020-09-24)
 
 ## ✨ New features
