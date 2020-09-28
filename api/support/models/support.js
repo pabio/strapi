@@ -11,11 +11,11 @@ module.exports = {
   lifecycles: {
     beforeCreate: async (data) => {
       if (data.title) {
-        data.slug = cryptoRandomString();
+        data.slug = cryptoRandomString({ length: 10 });
       }
     },
     beforeUpdate: async (_, data) => {
-      data.slug = data.slug || cryptoRandomString();
+      data.slug = data.slug || cryptoRandomString({ length: 10 });
     },
   },
 };

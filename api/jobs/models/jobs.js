@@ -12,11 +12,11 @@ module.exports = {
   lifecycles: {
     beforeCreate: async (data) => {
       if (data.title) {
-        data.slug = `${slugify(data.title)}-${cryptoRandomString()}`;
+        data.slug = `${slugify(data.title)}-${cryptoRandomString({ length: 10 })}`;
       }
     },
     beforeUpdate: async (_, data) => {
-      data.slug = data.slug || `${slugify(data.title)}-${cryptoRandomString()}`;
+      data.slug = data.slug || `${slugify(data.title)}-${cryptoRandomString({ length: 10 })}`;
     },
   },
 };
