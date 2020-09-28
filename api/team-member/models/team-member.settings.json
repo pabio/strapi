@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "team_members",
+  "info": {
+    "name": "Team member"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "Email": {
+      "type": "email"
+    },
+    "Content": {
+      "type": "richtext"
+    },
+    "Picture": {
+      "type": "string"
+    },
+    "Twitter": {
+      "type": "string"
+    }
+  }
+}
