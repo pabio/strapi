@@ -9,7 +9,7 @@
     "timestamps": true
   },
   "attributes": {
-    "name": {
+    "title": {
       "type": "string",
       "required": true,
       "minLength": 3
@@ -34,8 +34,8 @@
       "unique": true
     },
     "blog_posts": {
-      "via": "team_members",
-      "collection": "blog-post"
+      "collection": "blog-post",
+      "via": "team_members"
     }
   }
 }

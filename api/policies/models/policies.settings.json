@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "blog_categories",
+  "collectionName": "policies",
   "info": {
-    "name": "Blog category"
+    "name": "Policies"
   },
   "options": {
     "increments": true,
@@ -12,15 +12,15 @@
     "title": {
       "type": "string",
       "required": true,
-      "unique": true
+      "unique": false
     },
     "slug": {
       "type": "string",
+      "required": false,
       "unique": true
     },
-    "blog_posts": {
-      "collection": "blog-post",
-      "via": "blog_categories"
+    "content": {
+      "type": "richtext"
     }
   }
 }
