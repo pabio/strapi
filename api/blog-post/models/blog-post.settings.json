@@ -20,9 +20,6 @@
     "Date": {
       "type": "datetime"
     },
-    "Author": {
-      "model": "author"
-    },
     "categories": {
       "collection": "category",
       "via": "blog_posts",
