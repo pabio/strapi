@@ -1,6 +1,6 @@
 ---
 name: is-valid-domain
-version: 0.0.14
+version: 0.0.15
 type: npm
 summary: Validate domain name
 homepage: https://github.com/miguelmota/is-valid-domain
