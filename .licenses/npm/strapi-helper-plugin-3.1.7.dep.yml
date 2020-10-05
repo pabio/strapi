@@ -1,13 +1,13 @@
 ---
-name: strapi-plugin-content-type-builder
+name: strapi-helper-plugin
 version: 3.1.7
 type: npm
-summary: Strapi plugin to create content type (API).
-homepage: https://github.com/strapi/strapi#readme
+summary: Helper for Strapi plugins development
+homepage: 
 license: other
 licenses:
 - sources: LICENSE
-  text: |-
+  text: |
     Copyright (c) 2015-present Strapi Solutions SAS
 
     Portions of the Strapi software are licensed as follows:
