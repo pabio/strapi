@@ -47,7 +47,7 @@
     "strapi-plugin-email": "3.1.7",
     "strapi-plugin-upload": "3.1.7",
     "strapi-plugin-users-permissions": "3.1.7",
-    "strapi-utils": "3.1.6"
+    "strapi-utils": "3.1.7"
   },
   "engines": {
     "node": ">=10.0.0",
