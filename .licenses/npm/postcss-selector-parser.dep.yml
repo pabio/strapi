@@ -1,6 +1,6 @@
 ---
 name: postcss-selector-parser
-version: 6.0.3
+version: 6.0.4
 type: npm
 summary: "> Selector parser with built in methods for working with selector strings."
 homepage: https://github.com/postcss/postcss-selector-parser

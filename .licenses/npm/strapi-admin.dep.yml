@@ -1,6 +1,6 @@
 ---
 name: strapi-admin
-version: 3.1.6
+version: 3.1.7
 type: npm
 summary: Strapi Admin
 homepage: https://github.com/strapi/strapi-admin#readme

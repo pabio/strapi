@@ -1,14 +1,16 @@
 ---
-name: acorn
-version: 6.4.2
+name: es-abstract
+version: 1.17.7
 type: npm
-summary: ECMAScript parser
-homepage: https://github.com/acornjs/acorn
+summary: ECMAScript spec abstract operations.
+homepage: https://github.com/ljharb/es-abstract#readme
 license: mit
 licenses:
 - sources: LICENSE
-  text: |
-    Copyright (C) 2012-2018 by various contributors (see AUTHORS)
+  text: |-
+    The MIT License (MIT)
+
+    Copyright (C) 2015 Jordan Harband
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal

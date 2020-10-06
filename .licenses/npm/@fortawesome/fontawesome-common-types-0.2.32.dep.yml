@@ -1,6 +1,6 @@
 ---
-name: "@fortawesome/free-brands-svg-icons"
-version: 5.15.1
+name: "@fortawesome/fontawesome-common-types"
+version: 0.2.32
 type: npm
 summary: The iconic font, CSS, and SVG framework
 homepage: https://fontawesome.com

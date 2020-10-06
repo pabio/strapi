@@ -1,6 +1,6 @@
 ---
 name: ansi-styles
-version: 4.2.1
+version: 4.3.0
 type: npm
 summary: ANSI escape codes for styling strings in the terminal
 homepage: https://github.com/chalk/ansi-styles#readme
