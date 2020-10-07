@@ -1,8 +1,8 @@
 ---
-name: strapi-provider-email-sendmail
+name: strapi-utils
 version: 3.2.0
 type: npm
-summary: Sendmail provider for strapi email
+summary: Shared utilities for the Strapi packages
 homepage: http://strapi.io
 license: other
 licenses:

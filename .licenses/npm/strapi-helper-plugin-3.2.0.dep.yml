@@ -1,9 +1,9 @@
 ---
-name: strapi-provider-email-sendmail
+name: strapi-helper-plugin
 version: 3.2.0
 type: npm
-summary: Sendmail provider for strapi email
-homepage: http://strapi.io
+summary: Helper for Strapi plugins development
+homepage: 
 license: other
 licenses:
 - sources: LICENSE
