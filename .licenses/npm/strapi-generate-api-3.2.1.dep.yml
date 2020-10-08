@@ -1,13 +1,13 @@
 ---
-name: strapi-plugin-users-permissions
+name: strapi-generate-api
 version: 3.2.1
 type: npm
-summary: Protect your API with a full-authentication process based on JWT
-homepage: https://github.com/strapi/strapi#readme
+summary: Generate an API for a Strapi application.
+homepage: http://strapi.io
 license: other
 licenses:
 - sources: LICENSE
-  text: |-
+  text: |
     Copyright (c) 2015-present Strapi Solutions SAS
 
     Portions of the Strapi software are licensed as follows:
