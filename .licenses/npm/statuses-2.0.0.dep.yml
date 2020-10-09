@@ -1,9 +1,9 @@
 ---
-name: koa-compress
-version: 5.0.1
+name: statuses
+version: 2.0.0
 type: npm
-summary: Compress middleware for koa
-homepage: https://github.com/koajs/compress#readme
+summary: HTTP status utility
+homepage: https://github.com/jshttp/statuses#readme
 license: mit
 licenses:
 - sources: LICENSE
@@ -11,7 +11,8 @@ licenses:
 
     The MIT License (MIT)
 
-    Copyright (c) 2014 Jonathan Ong me@jongleberry.com
+    Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+    Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -30,4 +31,17 @@ licenses:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
+- sources: README.md
+  text: |-
+    [MIT](LICENSE)
+
+    [coveralls-image]: https://badgen.net/coveralls/c/github/jshttp/statuses/master
+    [coveralls-url]: https://coveralls.io/r/jshttp/statuses?branch=master
+    [node-version-image]: https://badgen.net/npm/node/statuses
+    [node-version-url]: https://nodejs.org/en/download
+    [npm-downloads-image]: https://badgen.net/npm/dm/statuses
+    [npm-url]: https://npmjs.org/package/statuses
+    [npm-version-image]: https://badgen.net/npm/v/statuses
+    [travis-image]: https://badgen.net/travis/jshttp/statuses/master
+    [travis-url]: https://travis-ci.org/jshttp/statuses
 notices: []

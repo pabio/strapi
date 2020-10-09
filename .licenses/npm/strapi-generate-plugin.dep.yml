@@ -1,6 +1,6 @@
 ---
 name: strapi-generate-plugin
-version: 3.1.7
+version: 3.2.1
 type: npm
 summary: Generate an plugin for a Strapi application.
 homepage: http://strapi.io
