@@ -1,6 +1,6 @@
 ---
 name: strapi
-version: 3.2.1
+version: 3.2.3
 type: npm
 summary: 'An open source headless CMS solution to create and manage your own API.
   It provides a powerful dashboard and features to make your life easier. Databases

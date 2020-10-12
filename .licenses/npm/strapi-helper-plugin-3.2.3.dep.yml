@@ -1,9 +1,9 @@
 ---
-name: strapi-generate-model
+name: strapi-helper-plugin
 version: 3.2.3
 type: npm
-summary: Generate a model for a Strapi API.
-homepage: http://strapi.io
+summary: Helper for Strapi plugins development
+homepage: 
 license: other
 licenses:
 - sources: LICENSE

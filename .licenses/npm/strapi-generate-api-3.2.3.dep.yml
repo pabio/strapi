@@ -1,8 +1,8 @@
 ---
-name: strapi-generate-model
+name: strapi-generate-api
 version: 3.2.3
 type: npm
-summary: Generate a model for a Strapi API.
+summary: Generate an API for a Strapi application.
 homepage: http://strapi.io
 license: other
 licenses:

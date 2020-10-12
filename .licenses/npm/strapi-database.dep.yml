@@ -1,6 +1,6 @@
 ---
 name: strapi-database
-version: 3.2.1
+version: 3.2.3
 type: npm
 summary: Strapi's database layer
 homepage: http://strapi.io
