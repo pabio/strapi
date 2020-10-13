@@ -1,6 +1,6 @@
 ---
 name: follow-redirects
-version: 1.5.10
+version: 1.13.0
 type: npm
 summary: HTTP and HTTPS modules that follow redirects.
 homepage: https://github.com/follow-redirects/follow-redirects
@@ -27,6 +27,5 @@ licenses:
     WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
     IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 - sources: README.md
-  text: "[https://github.com/follow-redirects/follow-redirects/blob/master/LICENSE](MIT
-    License)"
+  text: "[MIT License](https://github.com/follow-redirects/follow-redirects/blob/master/LICENSE)"
 notices: []

@@ -1,6 +1,6 @@
 ---
 name: color-string
-version: 1.5.3
+version: 1.5.4
 type: npm
 summary: Parser and generator for CSS color strings
 homepage: https://github.com/Qix-/color-string#readme
