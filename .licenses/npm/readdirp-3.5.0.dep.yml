@@ -1,18 +1,16 @@
 ---
-name: levenary
-version: 1.1.1
+name: readdirp
+version: 3.5.0
 type: npm
-summary: "[![npm-version](https://img.shields.io/npm/v/levenary.svg)](https://www.npmjs.com/package/levenary)
-  [![github-actions](https://github.com/tanhauhau/levenary/workflows/CI/badge.svg)](https://github.com/tanhauhau/levenary/actions)"
-homepage: https://github.com/tanhauhau/levenary#readme
+summary: Recursive version of fs.readdir with streaming API.
+homepage: https://github.com/paulmillr/readdirp
 license: mit
 licenses:
 - sources: LICENSE
-  text: |2
+  text: |
+    MIT License
 
-    The MIT License (MIT)
-
-    Copyright (c) 2019 Tan Li Hau
+    Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -31,4 +29,9 @@ licenses:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+- sources: README.md
+  text: |-
+    Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (<https://paulmillr.com>)
+
+    MIT License, see [LICENSE](LICENSE) file.
 notices: []

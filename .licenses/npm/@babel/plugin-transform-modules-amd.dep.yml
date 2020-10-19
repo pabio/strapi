@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-transform-modules-amd"
-version: 7.10.5
+version: 7.12.1
 type: npm
 summary: This plugin transforms ES2015 modules to AMD
 homepage: https://github.com/babel/babel#readme

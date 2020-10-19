@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-syntax-top-level-await"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Allow parsing of top-level await in modules
 homepage: https://github.com/babel/babel#readme

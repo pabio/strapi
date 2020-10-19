@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-transform-template-literals"
-version: 7.10.5
+version: 7.12.1
 type: npm
 summary: Compile ES2015 template literals to ES5
 homepage: https://github.com/babel/babel#readme

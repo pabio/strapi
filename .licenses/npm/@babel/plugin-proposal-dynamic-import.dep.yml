@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-proposal-dynamic-import"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Transform import() expressions
 homepage: https://github.com/babel/babel#readme

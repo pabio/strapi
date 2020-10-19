@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-proposal-optional-chaining"
-version: 7.11.0
+version: 7.12.1
 type: npm
 summary: Transform optional chaining operators into a series of nil checks
 homepage: https://github.com/babel/babel#readme

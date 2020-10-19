@@ -1,9 +1,10 @@
 ---
-name: "@babel/helper-skip-transparent-expression-wrappers"
+name: "@babel/traverse"
 version: 7.12.1
 type: npm
-summary: Helper which skips types and parentheses
-homepage: https://github.com/babel/babel#readme
+summary: The Babel Traverse module maintains the overall tree state, and is responsible
+  for replacing, removing, and adding nodes
+homepage: https://babeljs.io/
 license: mit
 licenses:
 - sources: LICENSE

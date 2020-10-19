@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-proposal-logical-assignment-operators"
-version: 7.11.0
+version: 7.12.1
 type: npm
 summary: Transforms logical assignment operators into short-circuited assignments
 homepage: https://github.com/babel/babel#readme

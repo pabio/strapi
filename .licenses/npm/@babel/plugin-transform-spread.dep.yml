@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-transform-spread"
-version: 7.11.0
+version: 7.12.1
 type: npm
 summary: Compile ES2015 spread to ES5
 homepage: https://github.com/babel/babel#readme

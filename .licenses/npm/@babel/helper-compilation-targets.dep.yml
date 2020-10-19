@@ -1,6 +1,6 @@
 ---
 name: "@babel/helper-compilation-targets"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Engine compat data used in @babel/preset-env
 homepage: https://github.com/babel/babel#readme

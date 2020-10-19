@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-transform-literals"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Compile ES2015 unicode string and number literals to ES5
 homepage: https://github.com/babel/babel#readme

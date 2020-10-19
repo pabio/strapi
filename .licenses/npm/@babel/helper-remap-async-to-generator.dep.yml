@@ -1,6 +1,6 @@
 ---
 name: "@babel/helper-remap-async-to-generator"
-version: 7.11.4
+version: 7.12.1
 type: npm
 summary: Helper function to remap async functions to generators
 homepage: https://github.com/babel/babel#readme

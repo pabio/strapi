@@ -1,13 +1,13 @@
 ---
-name: strapi-admin
+name: strapi-helper-plugin
 version: 3.2.4
 type: npm
-summary: Strapi Admin
-homepage: https://github.com/strapi/strapi-admin#readme
+summary: Helper for Strapi plugins development
+homepage: 
 license: other
 licenses:
 - sources: LICENSE
-  text: |-
+  text: |
     Copyright (c) 2015-present Strapi Solutions SAS
 
     Portions of the Strapi software are licensed as follows:

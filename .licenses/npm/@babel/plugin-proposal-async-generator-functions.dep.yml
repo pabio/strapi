@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-proposal-async-generator-functions"
-version: 7.10.5
+version: 7.12.1
 type: npm
 summary: Turn async generator functions into ES2015 generators
 homepage: https://github.com/babel/babel#readme

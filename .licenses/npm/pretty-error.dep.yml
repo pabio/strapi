@@ -1,6 +1,6 @@
 ---
 name: pretty-error
-version: 2.1.1
+version: 2.1.2
 type: npm
 summary: See nodejs errors with less clutter
 homepage: https://github.com/AriaMinaei/pretty-error#readme

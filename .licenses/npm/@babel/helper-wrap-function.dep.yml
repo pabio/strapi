@@ -1,6 +1,6 @@
 ---
 name: "@babel/helper-wrap-function"
-version: 7.10.4
+version: 7.12.3
 type: npm
 summary: Helper to wrap functions inside a function call.
 homepage: https://github.com/babel/babel#readme

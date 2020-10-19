@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-transform-property-literals"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Ensure that reserved words are quoted in object property keys
 homepage: https://github.com/babel/babel#readme

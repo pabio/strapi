@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-proposal-numeric-separator"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Remove numeric separators from Decimal, Binary, Hex and Octal literals
 homepage: https://github.com/babel/babel#readme

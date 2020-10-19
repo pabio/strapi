@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-syntax-jsx"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Allow parsing of jsx
 homepage: https://github.com/babel/babel#readme

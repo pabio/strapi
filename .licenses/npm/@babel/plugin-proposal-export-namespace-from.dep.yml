@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-proposal-export-namespace-from"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Compile export namespace to ES2015
 homepage: https://github.com/babel/babel#readme

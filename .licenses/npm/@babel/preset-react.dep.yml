@@ -1,6 +1,6 @@
 ---
 name: "@babel/preset-react"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Babel preset for all React plugins.
 homepage: https://babeljs.io/

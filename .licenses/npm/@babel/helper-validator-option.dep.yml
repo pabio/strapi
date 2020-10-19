@@ -1,8 +1,8 @@
 ---
-name: "@babel/helper-skip-transparent-expression-wrappers"
+name: "@babel/helper-validator-option"
 version: 7.12.1
 type: npm
-summary: Helper which skips types and parentheses
+summary: Validate plugin/preset options
 homepage: https://github.com/babel/babel#readme
 license: mit
 licenses:

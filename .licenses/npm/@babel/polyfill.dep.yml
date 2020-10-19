@@ -1,6 +1,6 @@
 ---
 name: "@babel/polyfill"
-version: 7.11.5
+version: 7.12.1
 type: npm
 summary: Provides polyfills necessary for a full ES2015+ environment
 homepage: https://babeljs.io/

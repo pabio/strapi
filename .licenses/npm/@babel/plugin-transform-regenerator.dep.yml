@@ -1,6 +1,6 @@
 ---
 name: "@babel/plugin-transform-regenerator"
-version: 7.10.4
+version: 7.12.1
 type: npm
 summary: Explode async and generator functions into a state machine.
 homepage: https://babeljs.io/
