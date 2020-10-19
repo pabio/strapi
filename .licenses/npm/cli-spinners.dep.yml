@@ -1,6 +1,6 @@
 ---
 name: cli-spinners
-version: 2.4.0
+version: 2.5.0
 type: npm
 summary: Spinners for use in the terminal
 homepage: https://github.com/sindresorhus/cli-spinners#readme

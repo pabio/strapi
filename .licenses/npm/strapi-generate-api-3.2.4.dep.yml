@@ -1,8 +1,8 @@
 ---
-name: strapi-connector-bookshelf
+name: strapi-generate-api
 version: 3.2.4
 type: npm
-summary: Bookshelf hook for the Strapi framework
+summary: Generate an API for a Strapi application.
 homepage: http://strapi.io
 license: other
 licenses:
