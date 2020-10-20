@@ -1,6 +1,6 @@
 ---
 name: sharp
-version: 0.26.0
+version: 0.26.2
 type: npm
 summary: High performance Node.js image processing, the fastest module to resize JPEG,
   PNG, WebP and TIFF images
