@@ -39,7 +39,7 @@
     "@sindresorhus/slugify": "^1.1.0",
     "knex": "<0.22.0",
     "mysql": "latest",
-    "strapi": "3.2.4",
+    "strapi": "3.2.5",
     "strapi-admin": "3.2.4",
     "strapi-connector-bookshelf": "3.2.4",
     "strapi-plugin-content-manager": "3.2.5",
