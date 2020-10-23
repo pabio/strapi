@@ -1,17 +1,14 @@
 ---
-name: prebuild-install
-version: 5.3.6
+name: line-column
+version: 1.0.2
 type: npm
-summary: A command line tool to easily install prebuilt binaries for multiple version
-  of node/iojs on a specific platform
-homepage: https://github.com/prebuild/prebuild-install
+summary: Convert efficiently index to/from line-column in a string
+homepage: https://github.com/io-monad/line-column
 license: mit
 licenses:
 - sources: LICENSE
   text: |
-    The MIT License (MIT)
-
-    Copyright (c) 2015 Mathias Buus
+    Copyright (c) 2016 IRIDE Monad <iride.monad@gmail.com>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -20,16 +17,16 @@ licenses:
     copies of the Software, and to permit persons to whom the Software is
     furnished to do so, subject to the following conditions:
 
-    The above copyright notice and this permission notice shall be included in
-    all copies or substantial portions of the Software.
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-    THE SOFTWARE.
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
 - sources: README.md
-  text: MIT
+  text: MIT (See LICENSE)
 notices: []

@@ -1,13 +1,13 @@
 ---
-name: strapi-plugin-content-manager
+name: strapi-generate-api
 version: 3.2.5
 type: npm
-summary: A powerful UI to easily manage your data.
-homepage: https://github.com/strapi/strapi#readme
+summary: Generate an API for a Strapi application.
+homepage: http://strapi.io
 license: other
 licenses:
 - sources: LICENSE
-  text: |-
+  text: |
     Copyright (c) 2015-present Strapi Solutions SAS
 
     Portions of the Strapi software are licensed as follows:
