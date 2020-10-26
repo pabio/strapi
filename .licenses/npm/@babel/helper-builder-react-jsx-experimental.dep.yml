@@ -1,6 +1,6 @@
 ---
 name: "@babel/helper-builder-react-jsx-experimental"
-version: 7.12.1
+version: 7.12.4
 type: npm
 summary: Helper function to build react jsx
 homepage: https://github.com/babel/babel#readme
