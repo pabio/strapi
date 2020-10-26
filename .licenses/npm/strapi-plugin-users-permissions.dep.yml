@@ -1,6 +1,6 @@
 ---
 name: strapi-plugin-users-permissions
-version: 3.2.4
+version: 3.2.5
 type: npm
 summary: Protect your API with a full-authentication process based on JWT
 homepage: https://github.com/strapi/strapi#readme
