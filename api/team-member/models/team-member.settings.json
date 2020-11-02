@@ -34,8 +34,8 @@
       "unique": true
     },
     "blog_posts": {
-      "collection": "blog-post",
-      "via": "team_members"
+      "via": "team_members",
+      "collection": "blog-post"
     }
   }
 }

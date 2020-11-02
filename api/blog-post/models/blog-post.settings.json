@@ -2,11 +2,13 @@
   "kind": "collectionType",
   "collectionName": "blog_posts",
   "info": {
-    "name": "Blog post"
+    "name": "Blog post",
+    "description": ""
   },
   "options": {
     "increments": true,
-    "timestamps": true
+    "timestamps": true,
+    "draftAndPublish": false
   },
   "attributes": {
     "title": {
@@ -21,8 +23,8 @@
       "unique": true
     },
     "team_members": {
-      "via": "blog_posts",
       "collection": "team-member",
+      "via": "blog_posts",
       "dominant": true
     },
     "published": {
@@ -31,9 +33,14 @@
       "required": true
     },
     "blog_categories": {
-      "via": "blog_posts",
       "collection": "blog-category",
+      "via": "blog_posts",
       "dominant": true
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false,
+      "required": false
     }
   }
 }

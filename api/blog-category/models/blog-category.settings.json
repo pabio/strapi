@@ -19,8 +19,8 @@
       "unique": true
     },
     "blog_posts": {
-      "collection": "blog-post",
-      "via": "blog_categories"
+      "via": "blog_categories",
+      "collection": "blog-post"
     }
   }
 }
