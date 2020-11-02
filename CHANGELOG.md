@@ -1,3 +1,76 @@
+## [v1.4.1](https://github.com/koj-co/strapi/compare/v1.4.0...v1.4.1) (2020-11-02)
+
+### ♻️ Updates
+
+- [`24cbb5c`](https://github.com/koj-co/strapi/commit/24cbb5c)  Add featured field to blog posts
+
+### ⬆️ Dependency updates
+
+- [`3c42079`](https://github.com/koj-co/strapi/commit/3c42079)  Bump pascalgn/automerge-action from v0.10.0 to v0.11.0
+- [`545e8d5`](https://github.com/koj-co/strapi/commit/545e8d5)  Bump actions/setup-node from v2.1.1 to v2.1.2
+- [`2dff185`](https://github.com/koj-co/strapi/commit/2dff185)  Bump strapi-plugin-users-permissions from 3.1.6 to 3.1.7
+- [`ae47293`](https://github.com/koj-co/strapi/commit/ae47293)  Bump strapi-plugin-content-type-builder from 3.1.6 to 3.1.7
+- [`66a0251`](https://github.com/koj-co/strapi/commit/66a0251)  Bump strapi-plugin-upload from 3.1.6 to 3.1.7
+- [`9d42f44`](https://github.com/koj-co/strapi/commit/9d42f44)  Bump strapi-plugin-content-manager from 3.1.6 to 3.1.7
+- [`518db3f`](https://github.com/koj-co/strapi/commit/518db3f)  Bump strapi-plugin-email from 3.1.6 to 3.1.7
+- [`4173075`](https://github.com/koj-co/strapi/commit/4173075)  Bump strapi from 3.1.6 to 3.1.7
+- [`f29152e`](https://github.com/koj-co/strapi/commit/f29152e)  Bump strapi-connector-bookshelf from 3.1.6 to 3.1.7
+- [`2f90784`](https://github.com/koj-co/strapi/commit/2f90784)  Bump strapi-utils from 3.1.6 to 3.1.7
+- [`ba532a2`](https://github.com/koj-co/strapi/commit/ba532a2)  Bump strapi-admin from 3.1.6 to 3.1.7
+- [`7bb10c7`](https://github.com/koj-co/strapi/commit/7bb10c7)  Bump strapi-plugin-users-permissions from 3.1.7 to 3.2.0
+- [`7f9fd4e`](https://github.com/koj-co/strapi/commit/7f9fd4e)  Bump strapi-connector-bookshelf from 3.1.7 to 3.2.0
+- [`9e09c19`](https://github.com/koj-co/strapi/commit/9e09c19)  Bump strapi-plugin-email from 3.1.7 to 3.2.0
+- [`e097d6b`](https://github.com/koj-co/strapi/commit/e097d6b)  Bump strapi-admin from 3.1.7 to 3.2.0
+- [`8042e98`](https://github.com/koj-co/strapi/commit/8042e98)  Bump strapi-plugin-content-type-builder from 3.1.7 to 3.2.0
+- [`9ea85b3`](https://github.com/koj-co/strapi/commit/9ea85b3)  Bump strapi-plugin-users-permissions from 3.2.0 to 3.2.1
+- [`9c315a4`](https://github.com/koj-co/strapi/commit/9c315a4)  Bump strapi-plugin-content-type-builder from 3.2.0 to 3.2.1
+- [`f78fcc6`](https://github.com/koj-co/strapi/commit/f78fcc6)  Bump strapi-plugin-content-manager from 3.1.7 to 3.2.1
+- [`cfdb220`](https://github.com/koj-co/strapi/commit/cfdb220)  Bump strapi-plugin-upload from 3.1.7 to 3.2.1
+- [`1d7687d`](https://github.com/koj-co/strapi/commit/1d7687d)  Bump strapi-plugin-email from 3.2.0 to 3.2.1
+- [`4c96346`](https://github.com/koj-co/strapi/commit/4c96346)  Bump pascalgn/automerge-action from v0.11.0 to v0.12.0
+- [`4212786`](https://github.com/koj-co/strapi/commit/4212786)  Bump strapi-utils from 3.1.7 to 3.2.1
+- [`c13a18b`](https://github.com/koj-co/strapi/commit/c13a18b)  Bump strapi-admin from 3.2.0 to 3.2.1
+- [`6b57cc4`](https://github.com/koj-co/strapi/commit/6b57cc4)  Bump strapi from 3.1.7 to 3.2.1
+- [`7e75db3`](https://github.com/koj-co/strapi/commit/7e75db3)  Bump strapi-connector-bookshelf from 3.2.0 to 3.2.1
+- [`b841b7e`](https://github.com/koj-co/strapi/commit/b841b7e)  Bump strapi-plugin-users-permissions from 3.2.1 to 3.2.3
+- [`607fce0`](https://github.com/koj-co/strapi/commit/607fce0)  Bump strapi from 3.2.1 to 3.2.3
+- [`e1aa0fb`](https://github.com/koj-co/strapi/commit/e1aa0fb)  Bump semantic-release from 17.1.2 to 17.2.0
+- [`32e9c89`](https://github.com/koj-co/strapi/commit/32e9c89)  Bump strapi-plugin-email from 3.2.1 to 3.2.3
+- [`df17303`](https://github.com/koj-co/strapi/commit/df17303)  Bump strapi-plugin-content-manager from 3.2.1 to 3.2.3
+- [`6913356`](https://github.com/koj-co/strapi/commit/6913356)  Bump strapi-plugin-upload from 3.2.1 to 3.2.3
+- [`6d6015d`](https://github.com/koj-co/strapi/commit/6d6015d)  Bump strapi-utils from 3.2.1 to 3.2.3
+- [`a228734`](https://github.com/koj-co/strapi/commit/a228734)  Bump strapi-plugin-content-type-builder from 3.2.1 to 3.2.3
+- [`c35b052`](https://github.com/koj-co/strapi/commit/c35b052)  Bump strapi-admin from 3.2.1 to 3.2.3
+- [`9c4e6b8`](https://github.com/koj-co/strapi/commit/9c4e6b8)  Bump strapi-connector-bookshelf from 3.2.1 to 3.2.3
+- [`6dace23`](https://github.com/koj-co/strapi/commit/6dace23)  Bump semantic-release from 17.2.0 to 17.2.1
+- [`1f794de`](https://github.com/koj-co/strapi/commit/1f794de)  Bump strapi-utils from 3.2.3 to 3.2.4
+- [`fc04702`](https://github.com/koj-co/strapi/commit/fc04702)  Bump strapi-admin from 3.2.3 to 3.2.4
+- [`2745191`](https://github.com/koj-co/strapi/commit/2745191)  Bump strapi-plugin-content-manager from 3.2.3 to 3.2.4
+- [`41b8427`](https://github.com/koj-co/strapi/commit/41b8427)  Bump strapi from 3.2.3 to 3.2.4
+- [`e9ba264`](https://github.com/koj-co/strapi/commit/e9ba264)  Bump strapi-connector-bookshelf from 3.2.3 to 3.2.4
+- [`886d3de`](https://github.com/koj-co/strapi/commit/886d3de)  Bump strapi-plugin-upload from 3.2.3 to 3.2.4
+- [`73625a3`](https://github.com/koj-co/strapi/commit/73625a3)  Bump strapi-plugin-content-type-builder from 3.2.3 to 3.2.4
+- [`f176877`](https://github.com/koj-co/strapi/commit/f176877)  Bump strapi-plugin-email from 3.2.3 to 3.2.4
+- [`9d58c10`](https://github.com/koj-co/strapi/commit/9d58c10)  Bump strapi-plugin-users-permissions from 3.2.3 to 3.2.4
+- [`296b2e4`](https://github.com/koj-co/strapi/commit/296b2e4)  Bump vsoch/pull-request-action from 1.0.10 to 1.0.11
+- [`eb2f528`](https://github.com/koj-co/strapi/commit/eb2f528)  Bump strapi-plugin-content-manager from 3.2.4 to 3.2.5
+- [`b04e1e8`](https://github.com/koj-co/strapi/commit/b04e1e8)  Bump strapi from 3.2.4 to 3.2.5
+- [`43b90de`](https://github.com/koj-co/strapi/commit/43b90de)  Bump strapi-plugin-upload from 3.2.4 to 3.2.5
+- [`2a5bacc`](https://github.com/koj-co/strapi/commit/2a5bacc)  Bump strapi-utils from 3.2.4 to 3.2.5
+- [`ceac156`](https://github.com/koj-co/strapi/commit/ceac156)  Bump strapi-plugin-email from 3.2.4 to 3.2.5
+- [`df0d022`](https://github.com/koj-co/strapi/commit/df0d022)  Bump strapi-plugin-users-permissions from 3.2.4 to 3.2.5
+- [`70b9bb9`](https://github.com/koj-co/strapi/commit/70b9bb9)  Bump knex from 0.21.6 to 0.21.7
+- [`9aa9cf5`](https://github.com/koj-co/strapi/commit/9aa9cf5)  Bump strapi-connector-bookshelf from 3.2.4 to 3.2.5
+- [`d4de9af`](https://github.com/koj-co/strapi/commit/d4de9af)  Bump strapi-plugin-content-type-builder from 3.2.4 to 3.2.5
+- [`e7be06a`](https://github.com/koj-co/strapi/commit/e7be06a)  Bump strapi-admin from 3.2.4 to 3.2.5
+- [`0ce369a`](https://github.com/koj-co/strapi/commit/0ce369a)  Bump knex from 0.21.7 to 0.21.8
+- [`8ec236b`](https://github.com/koj-co/strapi/commit/8ec236b)  Bump @koj/config from 1.2.5 to 1.2.6
+- [`71002d8`](https://github.com/koj-co/strapi/commit/71002d8)  Bump semantic-release from 17.2.1 to 17.2.2
+- [`94e56c9`](https://github.com/koj-co/strapi/commit/94e56c9)  Bump @koj/config from 1.2.6 to 1.2.7
+- [`73ddf44`](https://github.com/koj-co/strapi/commit/73ddf44)  Bump knex from 0.21.8 to 0.21.9
+- [`45e7928`](https://github.com/koj-co/strapi/commit/45e7928)  Bump knex from 0.21.9 to 0.21.11
+- [`29bcd1e`](https://github.com/koj-co/strapi/commit/29bcd1e)  Update semantic-release to v.17.2.2
+
 ## [v1.4.0](https://github.com/koj-co/strapi/compare/v1.3.1...v1.4.0) (2020-09-28)
 
 ### ✨ New features
