@@ -136,3 +136,4 @@ reviewed:
     - webpack-log
     - websocket-extensions
     - yargs
+    - minizlib
