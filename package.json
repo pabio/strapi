@@ -40,7 +40,7 @@
     "knex": "<0.22.0",
     "mysql": "latest",
     "strapi": "3.2.5",
-    "strapi-admin": "3.2.5",
+    "strapi-admin": "3.3.1",
     "strapi-connector-bookshelf": "3.2.5",
     "strapi-plugin-content-manager": "3.3.1",
     "strapi-plugin-content-type-builder": "3.2.5",
