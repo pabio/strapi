@@ -1,6 +1,6 @@
 ---
 name: codemirror
-version: 5.58.1
+version: 5.58.2
 type: npm
 summary: Full-featured in-browser code editor
 homepage: https://codemirror.net
@@ -242,6 +242,7 @@ notices:
     David H. Bronke
     David Mignot
     David Pathakjee
+    David R. Myers
     David Rodrigues
     David Santana
     David Vázquez
@@ -558,6 +559,7 @@ notices:
     Mário Gonçalves
     Mario Pietsch
     Mark Anderson
+    Mark Boyes
     Mark Dalgleish
     Mark Hamstra
     Mark Lentczner
@@ -668,6 +670,7 @@ notices:
     Nikolay Kostov
     nilp0inter
     Nils Knappmeier
+    Nina Pypchenko
     Nisarg Jhaveri
     nlwillia
     noragrossman
