@@ -1,6 +1,6 @@
 ---
 name: mongodb
-version: 3.6.2
+version: 3.6.3
 type: npm
 summary: The official MongoDB driver for Node.js
 homepage: https://github.com/mongodb/node-mongodb-native

@@ -1,6 +1,6 @@
 ---
 name: formik
-version: 2.2.1
+version: 2.2.3
 type: npm
 summary: Forms in React, without tears
 homepage: https://github.com/formium/formik#readme

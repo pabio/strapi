@@ -1,6 +1,6 @@
 ---
 name: "@babel/helper-replace-supers"
-version: 7.12.1
+version: 7.12.5
 type: npm
 summary: Helper function to replace supers
 homepage: https://github.com/babel/babel#readme

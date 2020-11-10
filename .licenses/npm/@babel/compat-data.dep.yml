@@ -1,6 +1,6 @@
 ---
 name: "@babel/compat-data"
-version: 7.12.1
+version: 7.12.5
 type: npm
 summary: 
 homepage: https://github.com/babel/babel#readme

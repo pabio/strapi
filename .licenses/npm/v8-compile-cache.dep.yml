@@ -1,6 +1,6 @@
 ---
 name: v8-compile-cache
-version: 2.1.1
+version: 2.2.0
 type: npm
 summary: Require hook for automatic V8 compile cache persistence
 homepage: https://github.com/zertosh/v8-compile-cache#readme
