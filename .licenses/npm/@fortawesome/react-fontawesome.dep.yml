@@ -1,6 +1,6 @@
 ---
 name: "@fortawesome/react-fontawesome"
-version: 0.1.11
+version: 0.1.12
 type: npm
 summary: Official React component for Font Awesome 5
 homepage: https://github.com/FortAwesome/react-fontawesome

@@ -1,6 +1,6 @@
 ---
 name: strapi-plugin-content-manager
-version: 3.3.2
+version: 3.3.3
 type: npm
 summary: A powerful UI to easily manage your data.
 homepage: https://github.com/strapi/strapi#readme

@@ -1,6 +1,6 @@
 ---
 name: mini-create-react-context
-version: 0.4.0
+version: 0.4.1
 type: npm
 summary: Smaller Polyfill for the proposed React context API
 homepage: https://github.com/StringEpsilon/mini-create-react-context#readme

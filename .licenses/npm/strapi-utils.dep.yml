@@ -1,6 +1,6 @@
 ---
 name: strapi-utils
-version: 3.3.2
+version: 3.3.3
 type: npm
 summary: Shared utilities for the Strapi packages
 homepage: http://strapi.io

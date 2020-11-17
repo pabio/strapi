@@ -1,6 +1,6 @@
 ---
 name: whatwg-fetch
-version: 3.4.1
+version: 3.5.0
 type: npm
 summary: A window.fetch polyfill.
 homepage: https://github.com/github/fetch#readme

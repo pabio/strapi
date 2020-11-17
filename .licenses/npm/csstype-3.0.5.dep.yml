@@ -1,6 +1,6 @@
 ---
 name: csstype
-version: 3.0.3
+version: 3.0.5
 type: npm
 summary: Strict TypeScript and Flow types for style based on MDN data
 homepage: https://github.com/frenic/csstype#readme

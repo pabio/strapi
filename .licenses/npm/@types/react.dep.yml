@@ -1,6 +1,6 @@
 ---
 name: "@types/react"
-version: 16.9.49
+version: 16.9.56
 type: npm
 summary: TypeScript definitions for React
 homepage: https://github.com/DefinitelyTyped/DefinitelyTyped#readme

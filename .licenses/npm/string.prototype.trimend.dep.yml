@@ -1,6 +1,6 @@
 ---
 name: string.prototype.trimend
-version: 1.0.1
+version: 1.0.2
 type: npm
 summary: ES2019 spec-compliant String.prototype.trimEnd shim.
 homepage: https://github.com/es-shims/String.prototype.trimEnd#readme

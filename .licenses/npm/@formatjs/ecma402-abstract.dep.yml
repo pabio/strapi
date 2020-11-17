@@ -1,6 +1,6 @@
 ---
 name: "@formatjs/ecma402-abstract"
-version: 1.2.2
+version: 1.4.0
 type: npm
 summary: A collection of implementation for ECMAScript abstract operations
 homepage: https://github.com/formatjs/formatjs

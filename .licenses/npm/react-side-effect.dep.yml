@@ -1,6 +1,6 @@
 ---
 name: react-side-effect
-version: 2.1.0
+version: 2.1.1
 type: npm
 summary: Create components whose prop changes map to a global side effect
 homepage: https://github.com/gaearon/react-side-effect

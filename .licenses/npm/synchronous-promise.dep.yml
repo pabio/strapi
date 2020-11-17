@@ -1,6 +1,6 @@
 ---
 name: synchronous-promise
-version: 2.0.13
+version: 2.0.15
 type: npm
 summary: Synchronous Promise-like prototype to use in testing where you would have
   used an ES6 Promise

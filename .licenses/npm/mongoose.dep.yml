@@ -1,6 +1,6 @@
 ---
 name: mongoose
-version: 5.10.13
+version: 5.10.15
 type: npm
 summary: Mongoose MongoDB ODM
 homepage: https://mongoosejs.com

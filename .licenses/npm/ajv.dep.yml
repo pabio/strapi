@@ -1,6 +1,6 @@
 ---
 name: ajv
-version: 6.12.5
+version: 6.12.6
 type: npm
 summary: Another JSON Schema Validator
 homepage: https://github.com/ajv-validator/ajv
