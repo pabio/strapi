@@ -137,3 +137,4 @@ reviewed:
     - websocket-extensions
     - yargs
     - minizlib
+    - duplexer3
