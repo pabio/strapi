@@ -1,3 +1,33 @@
+## [v1.4.2](https://github.com/koj-co/strapi/compare/v1.4.1...v1.4.2) (2020-11-23)
+
+### ⬆️ Dependency updates
+
+- [`6239ad6`](https://github.com/koj-co/strapi/commit/6239ad6)  Bump knex from 0.21.11 to 0.21.12
+- [`45dd7d4`](https://github.com/koj-co/strapi/commit/45dd7d4)  Bump actions/checkout from v2.3.3 to v2.3.4
+- [`2f21c30`](https://github.com/koj-co/strapi/commit/2f21c30)  Bump @koj/config from 1.2.7 to 1.2.8
+- [`c9a5491`](https://github.com/koj-co/strapi/commit/c9a5491)  Bump strapi-plugin-content-manager from 3.2.5 to 3.3.1
+- [`846a318`](https://github.com/koj-co/strapi/commit/846a318)  Bump strapi-utils from 3.2.5 to 3.3.1
+- [`a3941a7`](https://github.com/koj-co/strapi/commit/a3941a7)  Bump strapi-admin from 3.2.5 to 3.3.1
+- [`c71b991`](https://github.com/koj-co/strapi/commit/c71b991)  Bump strapi-plugin-users-permissions from 3.2.5 to 3.3.1
+- [`61ff0d2`](https://github.com/koj-co/strapi/commit/61ff0d2)  Bump strapi-connector-bookshelf from 3.2.5 to 3.3.1
+- [`770eb16`](https://github.com/koj-co/strapi/commit/770eb16)  Bump strapi-admin from 3.3.1 to 3.3.2
+- [`c7bfdd5`](https://github.com/koj-co/strapi/commit/c7bfdd5)  Bump strapi-plugin-content-manager from 3.3.1 to 3.3.2
+- [`0e7e7c8`](https://github.com/koj-co/strapi/commit/0e7e7c8)  Bump strapi-plugin-content-type-builder from 3.2.5 to 3.3.2
+- [`a0cb44b`](https://github.com/koj-co/strapi/commit/a0cb44b)  Bump strapi from 3.2.5 to 3.3.2
+- [`4bfbc65`](https://github.com/koj-co/strapi/commit/4bfbc65)  Bump strapi-connector-bookshelf from 3.3.1 to 3.3.2
+- [`8bb6c80`](https://github.com/koj-co/strapi/commit/8bb6c80)  Bump strapi-plugin-email from 3.2.5 to 3.3.2
+- [`dc8aa0a`](https://github.com/koj-co/strapi/commit/dc8aa0a)  Bump strapi-plugin-users-permissions from 3.3.1 to 3.3.2
+- [`365a6d4`](https://github.com/koj-co/strapi/commit/365a6d4)  Bump strapi-utils from 3.3.1 to 3.3.2
+- [`85f80de`](https://github.com/koj-co/strapi/commit/85f80de)  Bump strapi-plugin-upload from 3.2.5 to 3.3.2
+- [`ded9a8e`](https://github.com/koj-co/strapi/commit/ded9a8e)  Bump @semantic-release/github from 7.1.1 to 7.1.2
+- [`afee23f`](https://github.com/koj-co/strapi/commit/afee23f)  Update dependencies
+- [`91c4383`](https://github.com/koj-co/strapi/commit/91c4383)  Update koj-co/template
+- [`d0ffce7`](https://github.com/koj-co/strapi/commit/d0ffce7)  Bump vsoch/pull-request-action from 1.0.11 to 1.0.12
+- [`5d12a70`](https://github.com/koj-co/strapi/commit/5d12a70)  Bump @koj/config from 1.2.8 to 1.2.9
+- [`4c29269`](https://github.com/koj-co/strapi/commit/4c29269)  Bump @semantic-release/github from 7.1.2 to 7.2.0
+- [`b96fb68`](https://github.com/koj-co/strapi/commit/b96fb68)  Bump update-template from 1.3.0 to 1.3.1
+- [`43aeec5`](https://github.com/koj-co/strapi/commit/43aeec5)  Bump semantic-release from 17.2.3 to 17.2.4
+
 ## [v1.4.1](https://github.com/koj-co/strapi/compare/v1.4.0...v1.4.1) (2020-11-02)
 
 ### ♻️ Updates
