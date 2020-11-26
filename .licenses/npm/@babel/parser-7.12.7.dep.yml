@@ -1,14 +1,14 @@
 ---
-name: core-js
-version: 2.6.11
+name: "@babel/parser"
+version: 7.12.7
 type: npm
-summary: Standard library
-homepage: https://github.com/zloirock/core-js#readme
+summary: A JavaScript parser
+homepage: https://babeljs.io/
 license: mit
 licenses:
 - sources: LICENSE
   text: |
-    Copyright (c) 2014-2019 Denis Pushkarev
+    Copyright (C) 2012-2014 by various contributors (see AUTHORS)
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal

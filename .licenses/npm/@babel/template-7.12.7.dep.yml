@@ -1,9 +1,9 @@
 ---
-name: "@babel/helper-member-expression-to-functions"
+name: "@babel/template"
 version: 7.12.7
 type: npm
-summary: Helper function to replace certain member expressions with function calls
-homepage: https://github.com/babel/babel#readme
+summary: Generate an AST from a string template.
+homepage: https://babeljs.io/
 license: mit
 licenses:
 - sources: LICENSE

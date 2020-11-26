@@ -1,9 +1,10 @@
 ---
-name: "@babel/helper-member-expression-to-functions"
-version: 7.12.7
+name: "@babel/traverse"
+version: 7.12.9
 type: npm
-summary: Helper function to replace certain member expressions with function calls
-homepage: https://github.com/babel/babel#readme
+summary: The Babel Traverse module maintains the overall tree state, and is responsible
+  for replacing, removing, and adding nodes
+homepage: https://babeljs.io/
 license: mit
 licenses:
 - sources: LICENSE

@@ -1,9 +1,9 @@
 ---
 name: react-select
-version: 3.1.0
+version: 3.1.1
 type: npm
 summary: A Select control built with and for ReactJS
-homepage: https://github.com/JedWatson/react-select#readme
+homepage: 
 license: mit
 licenses:
 - sources: README.md
