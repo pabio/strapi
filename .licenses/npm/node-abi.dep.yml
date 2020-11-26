@@ -1,6 +1,6 @@
 ---
 name: node-abi
-version: 2.19.1
+version: 2.19.3
 type: npm
 summary: Get the Node ABI for a given target and runtime, and vice versa.
 homepage: https://github.com/lgeiger/node-abi#readme

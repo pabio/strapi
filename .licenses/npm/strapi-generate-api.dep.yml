@@ -1,6 +1,6 @@
 ---
 name: strapi-generate-api
-version: 3.3.3
+version: 3.3.4
 type: npm
 summary: Generate an API for a Strapi application.
 homepage: http://strapi.io

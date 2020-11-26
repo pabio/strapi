@@ -1,9 +1,9 @@
 ---
-name: strapi-generate-plugin
+name: strapi-helper-plugin
 version: 3.3.4
 type: npm
-summary: Generate an plugin for a Strapi application.
-homepage: http://strapi.io
+summary: Helper for Strapi plugins development
+homepage: 
 license: other
 licenses:
 - sources: LICENSE

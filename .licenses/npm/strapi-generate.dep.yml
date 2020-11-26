@@ -1,6 +1,6 @@
 ---
 name: strapi-generate
-version: 3.3.3
+version: 3.3.4
 type: npm
 summary: Master of ceremonies for the Strapi generators.
 homepage: http://strapi.io

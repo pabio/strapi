@@ -1,8 +1,8 @@
 ---
-name: strapi-generate-plugin
+name: strapi-utils
 version: 3.3.4
 type: npm
-summary: Generate an plugin for a Strapi application.
+summary: Shared utilities for the Strapi packages
 homepage: http://strapi.io
 license: other
 licenses:

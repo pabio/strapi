@@ -1,6 +1,6 @@
 ---
 name: strapi-plugin-content-type-builder
-version: 3.3.3
+version: 3.3.4
 type: npm
 summary: Strapi plugin to create content type (API).
 homepage: https://github.com/strapi/strapi#readme

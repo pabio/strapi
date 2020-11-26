@@ -1,6 +1,6 @@
 ---
 name: strapi-connector-bookshelf
-version: 3.3.3
+version: 3.3.4
 type: npm
 summary: Bookshelf hook for the Strapi framework
 homepage: http://strapi.io

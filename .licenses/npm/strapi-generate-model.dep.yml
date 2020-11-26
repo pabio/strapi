@@ -1,6 +1,6 @@
 ---
 name: strapi-generate-model
-version: 3.3.3
+version: 3.3.4
 type: npm
 summary: Generate a model for a Strapi API.
 homepage: http://strapi.io

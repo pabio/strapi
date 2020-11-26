@@ -1,6 +1,6 @@
 ---
 name: strapi-generate-service
-version: 3.3.3
+version: 3.3.4
 type: npm
 summary: Generate a service for a Strapi API.
 homepage: http://strapi.io
