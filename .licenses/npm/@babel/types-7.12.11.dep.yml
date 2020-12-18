@@ -1,9 +1,9 @@
 ---
-name: "@babel/plugin-transform-react-jsx-source"
-version: 7.12.1
+name: "@babel/types"
+version: 7.12.11
 type: npm
-summary: Add a __source prop to all JSX Elements
-homepage: https://github.com/babel/babel#readme
+summary: Babel Types is a Lodash-esque utility library for AST nodes
+homepage: https://babeljs.io/
 license: mit
 licenses:
 - sources: LICENSE

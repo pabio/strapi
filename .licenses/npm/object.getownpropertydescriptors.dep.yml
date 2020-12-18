@@ -1,6 +1,6 @@
 ---
 name: object.getownpropertydescriptors
-version: 2.1.0
+version: 2.1.1
 type: npm
 summary: ES2017 spec-compliant shim for `Object.getOwnPropertyDescriptors` that works
   in ES5.

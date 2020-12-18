@@ -1,14 +1,14 @@
 ---
-name: axios
-version: 0.21.0
+name: core-js
+version: 3.8.0
 type: npm
-summary: Promise based HTTP client for the browser and node.js
-homepage: https://github.com/axios/axios
+summary: Standard library
+homepage: https://github.com/zloirock/core-js#readme
 license: mit
 licenses:
 - sources: LICENSE
   text: |
-    Copyright (c) 2014-present Matt Zabriskie
+    Copyright (c) 2014-2020 Denis Pushkarev
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -27,6 +27,4 @@ licenses:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
-- sources: README.md
-  text: "[MIT](LICENSE)"
 notices: []

@@ -1,6 +1,6 @@
 ---
 name: highlight.js
-version: 10.3.2
+version: 10.4.0
 type: npm
 summary: Syntax highlighting with language autodetection.
 homepage: https://highlightjs.org/

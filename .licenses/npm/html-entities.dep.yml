@@ -1,6 +1,6 @@
 ---
 name: html-entities
-version: 1.3.1
+version: 1.3.3
 type: npm
 summary: Faster HTML entities encode/decode library.
 homepage: https://github.com/mdevils/node-html-entities#readme

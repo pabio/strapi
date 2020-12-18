@@ -1,6 +1,6 @@
 ---
 name: codemirror
-version: 5.58.2
+version: 5.58.3
 type: npm
 summary: Full-featured in-browser code editor
 homepage: https://codemirror.net
@@ -285,6 +285,7 @@ notices:
     Eric Bogard
     Erik Demaine
     Erik Welander
+    erosman
     eustas
     Evan Minsk
     Fabien Dubosson
@@ -360,6 +361,7 @@ notices:
     Hector Oswaldo Caballero
     Hein Htat
     Hélio
+    Hendrik Erz
     Hendrik Wallbaum
     Henrik Haugbølle
     Herculano Campos
@@ -387,6 +389,7 @@ notices:
     Ingo Richter
     Intervue
     Irakli Gozalishvili
+    iteriani
     Ivan Kurnosov
     Ivoah
     Jack Douglas
@@ -551,6 +554,7 @@ notices:
     Marat Dreizin
     Marcel Gerber
     Marcelo Camargo
+    Marc Espín
     Marco Aurélio
     Marco Munizaga
     Marcus Bointon
@@ -715,6 +719,7 @@ notices:
     peterkroon
     Peter Kroon
     Peter László
+    Phil DeJarnett
     Philipp A
     Philipp Markovics
     Philip Stadermann

@@ -1,9 +1,9 @@
 ---
-name: "@babel/plugin-transform-react-jsx-self"
-version: 7.12.1
+name: "@babel/generator"
+version: 7.12.11
 type: npm
-summary: Add a __self prop to all JSX Elements
-homepage: https://github.com/babel/babel#readme
+summary: Turns an AST into code.
+homepage: https://babeljs.io/
 license: mit
 licenses:
 - sources: LICENSE
