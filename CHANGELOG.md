@@ -1,3 +1,19 @@
+## [v1.4.3](https://github.com/koj-co/strapi/compare/v1.4.2...v1.4.3) (2020-12-18)
+
+### ⬆️ Dependency updates
+
+- [`b202730`](https://github.com/koj-co/strapi/commit/b202730)  Bump semantic-release from 17.2.4 to 17.3.0
+- [`5fe5169`](https://github.com/koj-co/strapi/commit/5fe5169)  Bump strapi-connector-bookshelf from 3.3.3 to 3.3.4
+- [`cbdd063`](https://github.com/koj-co/strapi/commit/cbdd063)  Bump strapi-plugin-upload from 3.3.3 to 3.3.4
+- [`2a99658`](https://github.com/koj-co/strapi/commit/2a99658)  Bump strapi from 3.3.3 to 3.3.4
+- [`c5a343d`](https://github.com/koj-co/strapi/commit/c5a343d)  Bump strapi-plugin-content-type-builder from 3.3.3 to 3.3.4
+- [`cb734c0`](https://github.com/koj-co/strapi/commit/cb734c0)  Bump strapi-admin from 3.3.3 to 3.3.4
+- [`331eeb1`](https://github.com/koj-co/strapi/commit/331eeb1)  Bump strapi-plugin-email from 3.3.3 to 3.3.4
+- [`91030e1`](https://github.com/koj-co/strapi/commit/91030e1)  Bump strapi-plugin-users-permissions from 3.3.3 to 3.3.4
+- [`2b576dd`](https://github.com/koj-co/strapi/commit/2b576dd)  Bump strapi-plugin-content-manager from 3.3.3 to 3.3.4
+- [`b3ac803`](https://github.com/koj-co/strapi/commit/b3ac803)  Bump strapi-utils from 3.3.3 to 3.3.4
+- [`2b5ac08`](https://github.com/koj-co/strapi/commit/2b5ac08)  Bump strapi-admin from 3.3.4 to 3.4.0
+
 ## [v1.4.2](https://github.com/koj-co/strapi/compare/v1.4.1...v1.4.2) (2020-11-23)
 
 ### ⬆️ Dependency updates
