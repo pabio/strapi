@@ -1,5 +1,7 @@
 # 📑 Strapi
 
+**⚠️ End-of-life:** This repository is being archvived as we have switched all content to Notion or [koj-co/handbook](https://github.com/koj-co/handbook).
+
 This repository contains the source for our headless CMS, built on [strapi/strapi](https://github.com/strapi/strapi).
 
 ## 💻 Getting started
